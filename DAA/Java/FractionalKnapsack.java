@@ -1,5 +1,5 @@
 
-//1.	Write a program to calculate Fibonacci numbers and find its step count
+//1. fractional Knapsack problem 
 
 package Java;
 import java.util.*;
