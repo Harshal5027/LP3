@@ -1,3 +1,6 @@
+
+//8-Queens matrix 
+
 package Java;
 
 public class EightQueens {
