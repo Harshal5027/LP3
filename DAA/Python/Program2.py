@@ -39,3 +39,4 @@ if __name__ == "__main__":
         print(f"Item with weight {item.weight} and value {item.value} (fraction taken: {weight / item.weight})")
 
     print(f"Maximum value achievable: {max_value}")
+    
